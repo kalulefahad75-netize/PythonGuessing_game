@@ -35,7 +35,7 @@ If the player guesses correctly:
 
 They move to the next level.
 
-The number range increases by +100 (e.g., 1–200, 1–300…).
+The number range increases by +100 (e.g., 1–100, 1–200…).
 
 If the player runs out of attempts:
 
